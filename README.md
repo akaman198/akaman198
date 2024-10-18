@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Dart, FLutter, React Native**
+ 🌱 I’m currently learning **Next.Js**
 
 💬 Ask me about **React**
 
